@@ -49,6 +49,8 @@ To learn more about active deprecations, we recommend checking [GitHub Discussio
 
 ## Unreleased
 
+- **General:** Introduce new Coralogix Scaler [#ISSUE](https://github.com/kedacore/keda/issues/ISSUE))
+
 ### New
 
 - **General**: TODO ([#XXX](https://github.com/kedacore/keda/issues/XXX))
